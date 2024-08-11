@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              Hamster Kombat Web
 // @namespace         Hamster Kombat
-// @version           1.6
+// @version           1.7
 // @description       Launch Hamster Kombat in browser
 // @description:ru-RU Запуск Hamster Kombat в браузере
 // @match             *://*.hamsterkombat.io/*
@@ -12,4 +12,4 @@
 // @downloadURL       https://raw.githubusercontent.com/PauIGB/hello_world/main/index.js
 // ==/UserScript==
 
-console.log('hello world')
+console.log('hello world 1')

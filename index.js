@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              Hamster Kombat Web
 // @namespace         Hamster Kombat
-// @version           1.4
+// @version           1.5
 // @description       Launch Hamster Kombat in browser
 // @description:ru-RU Запуск Hamster Kombat в браузере
 // @match             *://*.hamsterkombat.io/*
